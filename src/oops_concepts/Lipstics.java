@@ -18,7 +18,7 @@ public class Lipstics {
 
     }
 }
-
+//instant variable value will be same for all . to overcome this situation we are using this keyword, based on referance it will behave same
 class lipstics1{
     String Brand;
     String Model;
